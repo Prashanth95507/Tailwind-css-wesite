@@ -15,10 +15,14 @@ now the styling on these two webpages are made with the help of tailwind css <br
 -grid : used to establish a grid which allows me to arrange the images in a neat way <br>
 -grid-cols : helps to specify how many columns should be present on the page <br>
 -mx : this is for the horizontal margin application <br>
--footer : A footer typically contains information about its section such as who wrote it, links to related documents, copyright data, and the like <br>
--nav : this is the navigation element that links to other pages or to parts within the page: a section with navigation links.<br>
--meta : The meta element represents various kinds of metadata that cannot be expressed using the title, base, link, style, and script elements.<br>
--body : it represents the content of the page
+-text : used to specify properties of text <br>
+-bg : used to specify properties of the background of an element <br>
+-flex : specifies the box around an element <br>
+-justify : used to tell the page where to put certain elements or sections <br>
+
+<br> for more information go to the tailwind css website a great website for all your tailwind css definitions if mine were too vague
+and learn more tailwind css from looking in there catalog
+
 
 
 
